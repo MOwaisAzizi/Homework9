@@ -29,12 +29,12 @@ var person = {
     ],
   };
   
-  q18
+ 
   for(let x in person.favoriteBooks){
     console.log(person.favoriteBooks[x]);
   }
   
-  q19
+ 
   for(let x in person.frinds){
     console.log(person.frinds[0].favoriteBooks);
     console.log(person.frinds[1].favoriteBooks);
